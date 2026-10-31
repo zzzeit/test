@@ -1,2 +1,2 @@
 Hello World
-Hello i am merge 1
+Hello i am merge 2
